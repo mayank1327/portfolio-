@@ -33,7 +33,7 @@ const HeroSection = () => {
             <Typography>
             🚀 As an ECE student, my passion for technology drives me to become a Full Stack Web Developer. 
             I focus on creating efficient back-end solutions, ensuring data integrity, and mastering user authentication. 
-            I'm currently diving into Java with DSA at a beginner level, excited to explore its intricacies and boost my programming skills.
+            I am currently diving into Java with DSA at a beginner level, excited to explore its intricacies and boost my programming skills.
             Beyond coding, I find joy in tea and song.
             </Typography>
           </div>
