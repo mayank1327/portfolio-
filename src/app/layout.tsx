@@ -9,10 +9,10 @@ import Footer from '@/components/layout/footer';
 
 const inter = Inter({ subsets: ['latin'] });
 
-const title = 'Sagar Shah | Full Stack Developer From Ahmedabad, India.';
+const title = 'Mayank Mehta | Full Stack Developer From Bhopal, India.';
 const description =
-  'A self-proclaimed designer who specializes in full stack development (React.js & Node.js), from Ahmedabad, India.';
-const url = 'https://sagarshah.dev';
+  'A self-proclaimed designer who specializes in full stack development (React.js & Node.js), from Bhopal, India.';
+const url = 'https://mayankmehta.dev';
 
 export const metadata: Metadata = {
   metadataBase: new URL(url),
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     'React Developer',
     'Next.js Developer',
   ],
-  creator: 'Sagar Shah',
+  creator: 'Mayank Mehta',
   themeColor: [
     { media: '(prefers-color-scheme: light)', color: 'white' },
     { media: '(prefers-color-scheme: dark)', color: 'black' },
@@ -41,17 +41,9 @@ export const metadata: Metadata = {
       },
     ],
   },
-  twitter: {
-    card: 'summary_large_image',
-    title,
-    description,
-    creator: '@shahsagarm',
-    images: '/images/open-graph-sagar.png',
-  },
   icons: {
     icon: '/favicon.ico',
     shortcut: '/favicon-16x16.png',
-    apple: '/apple-touch-icon.png',
   },
 };
 
